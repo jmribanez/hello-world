@@ -1,2 +1,2 @@
 # hello-world
-Sample repo
+Get ready for something awesome
